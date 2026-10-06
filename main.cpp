@@ -2,6 +2,9 @@
 // Equipo 1
 // Alan Farid Hernández Sanmartín - A01753660
 // Alejandro Sánchez Calderón A01754913
+// Comando para correr el código: cmake -B build && cmake --build build && ./build/actividad_integral_1
+
+
 
 #include <iostream>
 #include <fstream>
